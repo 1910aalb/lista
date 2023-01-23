@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="I898.65930.schedulesdirect.org" tvg-name="ARG ESPN Plus" tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/ espn_plus_share-1.png" group-title="ESPN",ARG ESPN Plus
+http://192.99.70.160:25461/franco/1234/9424
+#EXTINF:-1 tvg-id="I254.25595.schedulesdirect.org" tvg-name="ESPN Deportes" tvg-logo="http://www.almuerzodenegocios.com/wp-content/uploads/2017/11 /i.png" group-title="ESPN",ESPN Deportes
+http://192.99.70.160:25461/franco/1234/9423
+#EXTINF:-1 tvg-id="I257.79049.schedulesdirect.org" tvg-name="ESPN 3" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/305 .png" título-grupo="ESPN",ESPN 3
+http://192.99.70.160:25461/frank/1234/9422
+#EXTINF:-1 tvg-id="I253.37747.schedulesdirect.org" tvg-name="ESPN 2" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/306 .png" título-grupo="ESPN",ESPN 2
+http://192.99.70.160:25461/franco/1234/9421
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="EE.UU. | Pac-12 Arizona" tvg-logo="https://static.pac-12.com/images/logos/pac-12 -arizona-logo.png" group-title="DEPORTES",EE.UU. | pac-12 arizona
+http://192.99.70.160:25461/franco/1234/1517
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-name="EE.UU. | Pac-12 Bay Area" tvg-logo="https://sport-tv-guide.live/images/stations/a1879. png" group-title="DEPORTES",EE.UU. | Área de la bahía Pac-12
+http://192.99.70.160:25461/franco/1234/1516
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-name="EE.UU. | Pac-12 Los Ángeles" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/882cc84/ 2147483647/strip/true/crop/2048x1365+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbf%2Ff1%2F4bc998674a19bc6ec979ddcb11db% 2Fpac12.png" group-title="DEPORTES",EE.UU. | Pac-12 Los Ángeles
+http://192.99.70.160:25461/franco/1234/1515
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="Pac-12 Washington" tvg-logo="https://static.pac-12.com/images/logos/pac-12-washington -logo.png" group-title="DEPORTES",Pac-12 Washington
+http://192.99.70.160:25461/franco/1234/1514
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="https://espnpressroom.com/us/files/2020/07/ESPNU-1-780x470.png " título-grupo="ESPN",ESPN U
+http://192.99.70.160:25461/franco/1234/9429
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPN NEWS" tvg-logo="https://ia803109.us.archive.org/30/items/EspnNews/espn%20news.png " group-title="ESPN",ESPN NOTICIAS
+http://192.99.70.160:25461/franco/1234/9430
+#EXTINF:-1 tvg-id="I209.12444.schedulesdirect.org" tvg-name="EE.UU. ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/ 91/Espn2.svg/1200px-Espn2.svg.png" group-title="ESPN",USA ESPN 2
+http://192.99.70.160:25461/franco/1234/9431
+#EXTINF:-1 tvg-id="espn.us" tvg-name="EE.UU. ESPN" tvg-logo="http://assets.stickpng.com/thumbs/5847f1b0cef1014c0b5e485d.png" group-title="ESPN" ,EE.UU. ESPN
+http://192.99.70.160:25461/franco/1234/9432
+#EXTINF:-1 tvg-id="I445.32281.schedulesdirect.org" tvg-name="NBA TV" tvg-logo="https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png " group-title="DEPORTES",NBA TV
+http://192.99.70.160:25461/franco/1234/1418
+#EXTINF:-1 tvg-id="nbcsportsnorthwest.us" tvg-name="NBCSN" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nbc-sports-logo-png- transparente.png" group-title="DEPORTES",NBCSN
+http://192.99.70.160:25461/franco/1234/1430
+#EXTINF:-1 tvg-id="I212.34710.schedulesdirect.org" tvg-name="NFL Network" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2020 /09/NFL.png" group-title="DEPORTES",NFL Network
+http://192.99.70.160:25461/franco/1234/1431
